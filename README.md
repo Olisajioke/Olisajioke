@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+  Bright Here, wanna work on a project with me? As long as it's python, I'm ready!
 <!--
 **Olisajioke/Olisajioke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
